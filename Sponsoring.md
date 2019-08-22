@@ -8,7 +8,7 @@ We want to have one or at max two sponsors per event.
 
 Sponsorship can be done at two levels:
 
-### "NICE" level 😎
+### 😎"NICE" level
 
 To be a NICE sponsor, you'd have to provide either one of the elements described in the cost breakdown [below](#breakdown-of-costs).
 
@@ -19,7 +19,7 @@ Being a nice sponsor will allow you / your company to have:
 - mention by host at the start and at the end of the event
 - mention in tweets by the [official account](https://twitter.com/ProvidedAsIs)
 
-### "VERY NICE" level 🤩
+### 🤩 "VERY NICE" level
 
 To be a VERY NICE sponsor, you'd have to provide both elements described in the cost breakdown [below](#breakdown-of-costs), or something equivalent (surprise us!).
 
@@ -35,4 +35,4 @@ An event space capable of containing that number of people, with around a couple
 
 #### B) Food and refreshments
 
-Something to eat in general - that can accommodate different dietary requirements (ex. vegan) - plus drinks, both alcoholic and non. → potential cost: 500£ / 1000£
+Something to eat in general - that can accommodate different dietary requirements (ex. vegan) - plus drinks, both alcoholic and non. → _average/potential cost_: 200£ / 600£

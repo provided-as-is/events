@@ -30,7 +30,7 @@ We will ensure a dedicated number of tickets for underrepresented groups in the 
 
 ## How can I help? 🤗
 
-Great question! We have created a dedicated section
+Great question! We have created a dedicated section if you are interested in [sponsoring](/Sponsoring.md).
 
 ## Who is behind this? 🧐
 
