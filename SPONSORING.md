@@ -31,8 +31,8 @@ Each event will likely have between 20 → 50 participants, and it will need:
 
 #### A) An event space
 
-An event space capable of containing that number of people, with around a couple spaces so that groups can split and have focused discussions → _average/potential cost_: 500£ / 1000£
+An event space capable of containing that number of people, with around a couple spaces so that groups can split and have focused discussions → _average/potential cost_: £500 / £1000
 
 #### B) Food and refreshments
 
-Something to eat in general - that can accommodate different dietary requirements (ex. vegan) - plus drinks, both alcoholic and non. → _average/potential cost_: 200£ / 600£
+Something to eat in general - that can accommodate different dietary requirements (ex. vegan) - plus drinks, both alcoholic and non. → _average/potential cost_: £300 / £750
