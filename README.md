@@ -1,4 +1,4 @@
-# Provided As Is ⚖️
+# PROVIDED AS IS ⚖️
 
 - [Twitter](https://twitter.com/ProvidedAsIs)
 - Eventbrite
@@ -6,21 +6,21 @@
 
 ## What is it? 🤔
 
-By leveraging Formidable’s ❤️ for Open Source, we want to create a **safe space** for maintainers to meet **every quarter** in London, UK 🇬🇧
+**PROVIDED AS IS** is a **safe space** for Open Source maintainers to come together, meet, learn and discuss. The meetup runs quarterly in London, UK, with the support of [Formidable](https://github.com/formidablelabs) and our other generous [sponsors](SPONSORING.md).
 
-Working with Open Source requires a set of skills around the core coding one that most people find themselves sort of stumbling on; and most times this role is a bit **isolating** (there are not many projects where devs are in the same town/ have a chance to meet regularly).
+Working with Open Source requires a set of skills beyond "just coding" that people often find challenging. No matter how small or large the community around your open source project, the role of a maintainer can feel **isolated**, as maintainers rarely get to meet in person.
 
-This gathering wants to give an opportunity to these people to connect with each other, and **share** struggles and experiences and strategies - to do this, we will only have lighting talks (circa one per event, at the start) and give at least half the time of the event to group discussions 👐
+This gathering gives an opportunity to people to connect with each other, and **share** struggles, experiences and strategies. This event is intended for people who help maintain open source projects, whether it's via code, documentation, design, issue triage, community management, or any other form of support.
 
 ## Cool! What's the format? ✍️
 
-Participants can propose topics of conversation using the dedicated issue per event - we will follow, for the discussion section of the event, the [Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology) approach, paired with the [Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule#).
+To facilitate sharing of ideas without additional burden of having to prepare content, we will only have one lighting talk per event, and dedicate most of the time to group discussions 👐
 
-There will be food & drinks, and the participants should all be maintainers/developers/PMs involved in OSS (no recruiters). This is **not** meant to be mainstream, for showing off. We aim to have no more than 40/50 people showing up per event.
+Participants can propose topics of conversation using the dedicated issue per event. At the event, we will follow the [Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology) approach, paired with the [Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule#).
 
-Consistency and creating a community is key here - we should aim to create an environment for OSS cross-pollination 🤗
+This is **not** meant to be large scale event. We aim to have no more than 40-50 people showing up per event. There will be food & drinks.
 
-Less frequently, once or twice a year, we will also organise "social events", which could span from a full dinner to just a pub night - to provide this community a more relaxed environment to spend time together (compared to the more serious/standard events) 🥂
+Less frequently, once or twice a year, we will also organise social events, which could span from pub night to a dinner, to provide this community a more relaxed environment to spend time together (compared to the more serious/standard events) 🥂
 
 ## How do I participate? 🙌
 
@@ -30,11 +30,11 @@ We will ensure a dedicated number of tickets for underrepresented groups in the 
 
 ## How can I help? 🤗
 
-Great question! We have created a dedicated section if you are interested in [sponsoring](/Sponsoring.md).
+Great question! We have created a dedicated section if you are interested in [sponsoring](/SPONSORING.md).
 
 ## Who is behind this? 🧐
 
-Your friendly neighborhood Formidable UK team, in collaboration with XXX (TBC).
+Your friendly neighbourhood Formidable team, in collaboration with XXX (TBC).
 
 ## Are you going to do this event in [my city]?
 
