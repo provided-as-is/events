@@ -1,8 +1,8 @@
-# PROVIDED AS IS ⚖️
+# PROVIDED AS IS ️🧩
 
 - [Twitter](https://twitter.com/ProvidedAsIs)
-- Eventbrite
-- Meetup
+- Eventbrite (soon)
+- Meetup (soon)
 
 ## What is it? 🤔
 
@@ -34,7 +34,7 @@ Great question! We have created a dedicated section if you are interested in [sp
 
 ## Who is behind this? 🧐
 
-Your friendly neighbourhood Formidable team, in collaboration with the awesome team at the [Maintainerati Foundation](https://maintainerati.org).
+Your friendly neighborhood Formidable team, in collaboration with the awesome team at the [Maintainerati Foundation](https://maintainerati.org).
 
 ## Are you going to do this event in [my city]?
 
@@ -44,13 +44,4 @@ And let us know, we'd love to hear what your experience is!
 
 ---
 
-TODO:
-
-- [ ] complete README
-- [ ] add sponsorship guidelines/descriptions
-- [ ] add issues labels (check https://github.com/seattlejs/seattlejs/labels)
-- [ ] add feedback issue (one per event)
-- [ ] add issue template
-- [ ] add how to submit a lighting talk
-- [ ] add meetup profile
-- [ ] add eventbrite profile
+🚧We are still finalizing a few things, check out [this issue for details](https://github.com/FormidableLabs/provided-as-is/issues/3) 🚧
