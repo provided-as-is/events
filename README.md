@@ -14,7 +14,7 @@ This gathering gives an opportunity to people to connect with each other, and **
 
 ## Cool! What's the format? ✍️
 
-To facilitate sharing of ideas without additional burden of having to prepare content, we will only have one lighting talk per event, and dedicate most of the time to group discussions 👐
+Our format was inspired by, and based upon, Maintainerati events. To facilitate sharing of ideas without additional burden of having to prepare content, we will only have one lighting talk per event, and dedicate most of the time to group discussions 👐
 
 Participants can propose topics of conversation using the dedicated issue per event. At the event, we will follow the [Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology) approach, paired with the [Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule#).
 
@@ -34,7 +34,7 @@ Great question! We have created a dedicated section if you are interested in [sp
 
 ## Who is behind this? 🧐
 
-Your friendly neighbourhood Formidable team, in collaboration with XXX (TBC).
+Your friendly neighbourhood Formidable team, in collaboration with the awesome team at the [Maintainerati Foundation](https://maintainerati.org).
 
 ## Are you going to do this event in [my city]?
 
