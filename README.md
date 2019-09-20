@@ -1,8 +1,8 @@
 # PROVIDED AS IS ️🧩
 
 - [Twitter](https://twitter.com/ProvidedAsIs)
-- Eventbrite (soon)
-- Meetup (soon)
+- [Eventbrite](https://www.eventbrite.com/o/provided-as-is-london-26805041977)
+- [Meetup](https://www.meetup.com/formidable-london/)
 
 ## What is it? 🤔
 

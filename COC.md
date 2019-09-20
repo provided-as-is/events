@@ -8,7 +8,7 @@ All organizers, attendees, speakers, sponsors, and volunteers at Provided As Is 
 
 ### Need Help?
 
-If you have any questions, comments, or concerns, or need to report anything that makes you feel uncomfortable or unsafe, please contact one of our [organizers]().
+If you have any questions, comments, or concerns, or need to report anything that makes you feel uncomfortable or unsafe, please contact one of our [organizers](provided-as-is@formidable.com).
 
 ## The Less Quick Version
 
@@ -26,7 +26,7 @@ Any participant asked to stop any harassing or inappropriate behavior is expecte
 
 If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a Provided As Is organizer or volunteer immediately. At conferences and other large events, organizers and volunteers will be wearing specific badges, shirts, or other identifiable items to help you find them.
 
-If you can’t find an organizer or volunteer, [Provided As Is on Twitter](http://twitter.com/ProvidedAsIs) has DMs open and is monitored constantly.
+If you can’t find an organizer or volunteer, [Provided As Is on Twitter](http://twitter.com/ProvidedAsIs) has DMs open and is monitored constantly. There is also an [email address](provided-as-is@formidable.com) you can reach out to.
 
 ### Enforcement
 
