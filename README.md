@@ -1,5 +1,7 @@
 # PROVIDED AS IS ️🧩
 
+**NEXT EVENT Feb 11th** 👉🎟[(link)](https://www.eventbrite.com/e/provided-as-is-episode-2-tickets-81752767729)
+
 - [Twitter](https://twitter.com/ProvidedAsIs)
 - [Eventbrite](https://www.eventbrite.com/o/provided-as-is-london-26805041977)
 - [Meetup](https://www.meetup.com/formidable-london/)
