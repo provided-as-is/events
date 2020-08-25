@@ -4,11 +4,11 @@
 
 Provided As Is is dedicated to providing a safe, comfortable, and accessible environment for all participants. We will not tolerate any inappropriate behavior, remarks, images, or online posts. We will not tolerate harassment in any form. The use of sexual language and imagery will not be tolerated. Participants violating these rules may be sanctioned or expelled from conferences, meetups, or other affiliated events without a refund at the discretion of the organizers.
 
-All organizers, attendees, speakers, sponsors, and volunteers at Provided As Is events are required to agree with the following Code of Conduct. Organizers will enforce this code throughout all Provided As Is affiliated events. We expect cooperation from all participants to ensure a safe, comfortable, and inclusive environment for everyone.
+All organizers, attendees, speakers, sponsors, and volunteers at Provided As Is events - and contributors and participants in its repositories - are required to agree with the following Code of Conduct. Organizers will enforce this code throughout all Provided As Is affiliated events and in the repositories. We expect cooperation from all participants to ensure a safe, comfortable, and inclusive environment for everyone.
 
 ### Need Help?
 
-If you have any questions, comments, or concerns, or need to report anything that makes you feel uncomfortable or unsafe, please contact one of our [organizers](provided-as-is@formidable.com).
+If you have any questions, comments, or concerns, or need to report anything that makes you feel uncomfortable or unsafe, please contact one of our [organizers](providedasis@gmail.com).
 
 ## The Less Quick Version
 
@@ -26,7 +26,7 @@ Any participant asked to stop any harassing or inappropriate behavior is expecte
 
 If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a Provided As Is organizer or volunteer immediately. At conferences and other large events, organizers and volunteers will be wearing specific badges, shirts, or other identifiable items to help you find them.
 
-If you can’t find an organizer or volunteer, [Provided As Is on Twitter](http://twitter.com/ProvidedAsIs) has DMs open and is monitored constantly. There is also an [email address](provided-as-is@formidable.com) you can reach out to.
+If you can’t find an organizer or volunteer, [Provided As Is on Twitter](http://twitter.com/ProvidedAsIs) has DMs open and is monitored constantly. There is also an [email address](providedasis@gmail.com) you can reach out to.
 
 ### Enforcement
 
