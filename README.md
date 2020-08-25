@@ -42,7 +42,3 @@ No, not for the foreseeable future - we are aiming to create a local community. 
 That said, in the virtual world we currently all live in, we want to open our events to everyone from everywhere! But we'll keep doing them in a London-friendly timezone. So there could still be a need for more localized versions of the event format 🤗
 
 And let us know, we'd love to hear what your experience is!
-
----
-
-🚧We are still finalizing a few things, check out [this issue for details](https://github.com/FormidableLabs/provided-as-is/issues/3) 🚧
