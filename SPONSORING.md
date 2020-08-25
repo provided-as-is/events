@@ -1,4 +1,4 @@
-# Sponsoring the events
+# Sponsoring the IRL events
 
 This meetup is offered for free to all the Open Source maintainers who want to participate - but, to do so, we could use some help from companies active in this space to ensure that the event is successful 🎩
 
@@ -6,7 +6,7 @@ We want to have one or at max two sponsors per event.
 
 ## Sponsoring levels
 
-Sponsorship can be done at two levels:
+Sponsorship for IRL events can be done at two levels:
 
 ### 😎"NICE" level
 
@@ -25,7 +25,7 @@ To be a VERY NICE sponsor, you'd have to provide both elements described in the 
 
 For being a VERY NICE sponsor, you obtain (on top of everything that NICE sponsors get) the possibility to do a lighting talk to let the participants know how you are involved in Open Source, and why you are awesome!
 
-### Breakdown of costs 💵
+### Breakdown of IRL events costs 💵
 
 Each event will likely have between 20 → 50 participants, and it will need:
 
@@ -36,3 +36,7 @@ An event space capable of containing that number of people, with around a couple
 #### B) Food and refreshments
 
 Something to eat in general - that can accommodate different dietary requirements (ex. vegan) - plus drinks, both alcoholic and non. → _average/potential cost_: £300 / £750
+
+## Sponsoring remote events
+
+We haven't yet done any remote events, but they are in our roadmap. If you are considering sponsoring a remote event, reach out! We are still defining how we want to handle that.
